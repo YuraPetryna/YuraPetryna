@@ -1,5 +1,6 @@
 <h1 align="center">Hi everyone, I'm Yura</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 <h2 align="center">I'm a 25-year-old Junior Full-Stack Developer with a focus on frontend.</h2>
 
 <div id="header" align="center">
