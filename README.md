@@ -28,6 +28,11 @@ Quick learner with a keen eye for detail and a problem-solving mindset.
 ---
 
 ### 💻 Technologies:
+<img
+  src="https://img.shields.io/badge/react-4A154B.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+  alt="React Badge"
+  style="border-radius: 8px"
+/>
 
 ![React](https://img.shields.io/badge/react-4A154B.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
