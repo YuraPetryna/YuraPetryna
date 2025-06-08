@@ -29,16 +29,16 @@ Quick learner with a keen eye for detail and a problem-solving mindset.
 
 ### 💻 Technologies:
 
-<p>
-  <img src="https://img.shields.io/badge/react-4A154B.svg?&logo=react&logoColor=%2361DAFB" width="120" height="40" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E" width="120" height="40" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white" width="120" height="40" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23FF9900.svg?&logo=reacthookform&logoColor=white" width="120" height="40" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?&logo=redux&logoColor=white" width="120" height="40" />
-  <img src="https://img.shields.io/badge/css-hotpink.svg&logo=css&logoColor=white" width="120" height="40" />
-  <img src="https://img.shields.io/badge/styled--components-%23C21325?&logo=styled-components&logoColor=white" width="120" height="40" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white" width="120" height="40" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB" width="120" height="40" />
+<p align="left">
+  <img src="https://img.shields.io/badge/react-4A154B.svg?&logo=react&logoColor=%2361DAFB" height="40" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E" height="40" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23FF9900.svg?&logo=reacthookform&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?&logo=redux&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/css-hotpink.svg?&logo=css&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/styled--components-%23C21325?&logo=styled-components&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB" height="40" />
 </p>
 
 ![React](https://img.shields.io/badge/react-4A154B.svg?&logo=react&logoColor=%2361DAFB)
