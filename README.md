@@ -28,19 +28,7 @@ Quick learner with a keen eye for detail and a problem-solving mindset.
 ---
 
 ### 💻 Technologies:
-<img width="40" height="40" alt="React Badge" src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'>
-  <circle cx='20' cy='20' r='20' fill='%234A154B'/>
-  <g transform='translate(20,20) scale(0.2)' fill='%2361DAFB'>
-    <circle r='2'/>
-    <g fill='none' stroke='%2361DAFB' stroke-width='2'>
-      <ellipse rx='11' ry='4.2'/>
-      <ellipse rx='11' ry='4.2' transform='rotate(60)'/>
-      <ellipse rx='11' ry='4.2' transform='rotate(120)'/>
-    </g>
-  </g>
-</svg>
-" />
+
 
 ![React](https://img.shields.io/badge/react-4A154B.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
